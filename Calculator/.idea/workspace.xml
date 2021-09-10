@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="56afb70d-3fb5-4433-9a41-cb65e8fe075d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Bai1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Bai3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Calculator.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Calculator_ver2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../changecurrency/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanhtoantu/dientich.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanhtoantu/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanhtoantu2/Bai1/diemtrungbinh.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanhtoantu2/Bai1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanhtoantu2/Bai2/nhietdo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanhtoantu2/Bai3/dientichhinhtron.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../thuchanhtoantu2/Bai4/chuvihinhtron.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/Exersise_khoa7.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1xvnHd7uBnTfjb4lJaONWMUqZNL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/css" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="56afb70d-3fb5-4433-9a41-cb65e8fe075d" name="Changes" comment="" />
+      <created>1631244343123</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1631244343123</updated>
+      <workItem from="1631244344191" duration="22000" />
+      <workItem from="1631244444412" duration="10000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator</title>
+    <link rel="stylesheet" href="./css/cal.css">
+</head>
+<body>
+    <table>
+        <tr>
+            <td id="result" colspan="4"></td>
+        </tr>
+        <tr>
+            <td>
+                <button type="button" class="btn" value="(">(</button>
+            </td>
+            <td>
+                <button type="button" class="btn" value=")">)</button>
+            </td>
+            <td>
+                <button type="button" value="DEL" onclick="undo()">CE</button>
+            </td>
+            <td>
+                <button type="button" onclick="clean()" value="AC">AC</button>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button type="button" class="btn" value="7">7</button>
+            </td>
+            <td>
+                <button type="button" class="btn" value="8">8</button>
+            </td>
+            <td>
+                <button type="button" class="btn" value="9">9</button>
+            </td>
+            <td>
+                <button type="button" class="btn" value="/">/</button>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button type="button" class="btn" value="4">4</button>
+            </td>
+            <td>
+                <button type="button" class="btn" value="5">5</button>
+            </td>
+            <td>
+                <button type="button" class="btn" value="6">6</button>
+            </td>
+            <td>
+                <button type="button" class="btn" value="*">x</button>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button type="button" class="btn" value="1">1</button>
+            </td>
+            <td>
+                <button type="button" class="btn" value="2">2</button>
+            </td>
+            <td>
+                <button type="button" class="btn" value="3">3</button>
+            </td>
+            <td>
+                <button type="button" class="btn" value="-">-</button>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <button type="button" class="btn" value="0">0</button>
+            </td>
+            <td>
+                <button type="button" class="btn" value=".">.</button>
+            </td>
+            <td>
+                <button type="button" value="=" onclick="equal()" style="background-color: #478AFC; color: white">=</button>
+            </td>
+            <td>
+                <button type="button" class="btn" value="+">+</button>
+            </td>
+        </tr>
+    </table>
+    <script src="js/calculator.js"></script>
+</body>
+</html>

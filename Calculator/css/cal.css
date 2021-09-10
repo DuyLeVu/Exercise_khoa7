@@ -1,0 +1,17 @@
+#result{
+    width: 90%;
+    margin: auto;
+    height: 32px;
+    border: 1px solid black;
+}
+button{
+    width: 60px;
+    height: 30px;
+    background-color: #F3F3F3;
+}
+tr:nth-child(2) button{
+    background-color: #D3D3D3;
+}
+td:nth-child(4) button{
+    background-color: #D3D3D3;
+}

@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Calculator</title>
+</head>
+<body>
+<form action="">
+    <input type="text" id="x" name="x" placeholder="Number 1">
+    <input type="text" id="y" name="y" placeholder="Number 2"> <br> <br>
+    <button type="button" onclick="Add()">Addition(+)</button>
+    <button type="button" onclick="Sub()">Subtraction(-)</button>
+    <button type="button" onclick="Multi()">Multiplication(x)</button>
+    <button type="button" onclick="Div()">Division(/)</button>
+    <p style="font-weight: bold">Result Division: <span id="output"></span></p>
+</form>
+<script>
+    function Add(){
+        let x = document.getElementById('x').value;
+        let y = document.getElementById('y').value;
+        x = parseFloat(x);
+        y = parseFloat(y);
+        document.getElementById('output').innerHTML = x+y;
+    }
+    function Sub(){
+        let x = document.getElementById('x').value;
+        let y = document.getElementById('y').value;
+        x = parseFloat(x);
+        y = parseFloat(y);
+        document.getElementById('output').innerHTML = x-y;
+    }
+    function Multi(){
+        let x = document.getElementById('x').value;
+        let y = document.getElementById('y').value;
+        x = parseFloat(x);
+        y = parseFloat(y);
+        document.getElementById('output').innerHTML = x*y;
+    }
+    function Div(){
+        let x = document.getElementById('x').value;
+        let y = document.getElementById('y').value;
+        x = parseFloat(x);
+        y = parseFloat(y);
+        document.getElementById('output').innerHTML = x/y;
+    }
+</script>
+</body>
+</html>
